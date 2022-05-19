@@ -15,6 +15,7 @@ public class EntidadLibro {
     public String titulo;
     public String autor;
     public int numero_de_pag;
+    private String atributo1;
 
     public EntidadLibro() {
    
